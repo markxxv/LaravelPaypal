@@ -1,4 +1,4 @@
-# LaravelPaypal
+# Laravel Paypal
 
 It's a simple Model + controller to use official PayPal PHP SDK
 
